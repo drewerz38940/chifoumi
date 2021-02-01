@@ -1,0 +1,2 @@
+# chifoumi
+papier,caillou,ciseau
